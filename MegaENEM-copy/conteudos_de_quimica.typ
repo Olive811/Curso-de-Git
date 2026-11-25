@@ -1,4 +1,0 @@
-// Conteúdos de Química
-
-
-#pagebreak()
